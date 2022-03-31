@@ -1,0 +1,72 @@
+
+@media screen and (max-width: 1440px) {
+
+    /* .layui-layer-content {
+        height: 550px!important;
+        margin-top: 20px;
+    } */
+    /* .qi-tcc {
+        width: 1000px;
+        margin: auto;
+    } */
+
+    .content-02 {
+        width: 56%;
+    }
+
+    .mode02, .mode08 {
+        background-size: cover;
+    }
+    .mode03, .mode09{
+        background-size: cover;
+    }
+    .mode06{
+        background-size: cover;
+    }
+    .mode{ background-size: cover;}
+    .mode06 {
+        height: 400px;}
+    .mode06-fl {
+        width: 371px;   height: 142px;
+    }
+    .mode03{height: 400px;}
+    .mode09{height: 400px;}
+
+
+    /*0330*/
+    /* .qi-tcc-page {
+        min-height: 346px;
+    } */
+    .qi-tcc-title{font-size: 18px;}
+    .qi-tcc-list-li {
+        height: 40px;
+        line-height: 40px;}
+    .qi-tcc-list-item-01-img {
+        vertical-align: middle;
+        width: 15px;
+        height: 24px;
+    }
+    .qi-tcc-list-item-01 {
+        width: 33px;
+        text-align: center;
+    }
+    .qi-tcc-list {
+        width: 100%;
+        padding-top: 9px;
+    }
+
+
+
+    /*0331*/
+    
+
+
+    /*0401*/
+    .mode01-table-02 {
+        width: 60px;}
+    /* .mode01-table-01{font-size: 12px;}
+    .mode01-table-02{font-size: 12px;}
+    .mode01-table-03{height: 10px;max-width: 40%;  } */
+
+
+}

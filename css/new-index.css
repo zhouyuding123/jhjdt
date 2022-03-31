@@ -1,0 +1,8 @@
+/*0117*/
+.content-01{width: 20%;}
+.content-02{width: 58%;}
+.mode04{width: 100%;margin-left: 0;padding-left:0;}
+.mode04-fl{text-align: center;cursor: pointer;}
+.mode04-fl:nth-child(n+2) {
+    margin-left: 0;
+}

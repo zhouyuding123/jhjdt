@@ -1,0 +1,33 @@
+html {
+	color: #333333;
+	font-family: "微软雅黑";
+}
+body {
+	font-size: 16px;
+}
+a {
+	text-decoration: none;
+	/* color: #333333; */
+}
+ul,li {
+	padding: 0;
+	list-style: none;
+}
+body,h1,h2,h3,h4,h5,h6,input,button,p,ul,li {
+	margin: 0;
+}
+input,button,select,textarea {
+	padding: 0;
+	outline: none;
+	margin: 0;
+	border: none;
+	background: none;
+}
+.clearfix:after {
+    content: '';
+    clear: both;
+    display: block;
+}
+.activeNone {
+	display: none;
+}

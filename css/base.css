@@ -1,0 +1,55 @@
+html,body,h1,h2,h3,h4,h5,h6,div,dl,dt,dd,ul,ol,li,p,blockquote,pre,hr,figure,table,caption,th,td,form,fieldset,legend,input,button,textarea,menu{margin:0;padding:0;}
+.clearfix:after{display: block;content: "";clear: both}
+.fl{float: left;}
+.fr{float: right;}
+.hide{display: none;}
+.addfix{position: fixed;}
+img{font-size: 0;vertical-align: bottom;}
+*{margin: 0;padding: 0;font-family: 微软雅黑;}
+.container{position: relative;}
+
+@font-face {
+    font-family: AgencyFB;
+    src: url("../font/AgencyFB.eot");
+    src: url("../font/AgencyFB.ttf") format('truetype'),url("../font/AgencyFB.svg") format('svg');
+}
+
+@font-face {
+    font-family: 'iconfont';  /* project id 1542973 */
+    src: url('//at.alicdn.com/t/font_1542973_uewui5068tf.eot');
+    src: url('//at.alicdn.com/t/font_1542973_uewui5068tf.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_1542973_uewui5068tf.woff2') format('woff2'),
+    url('//at.alicdn.com/t/font_1542973_uewui5068tf.woff') format('woff'),
+    url('//at.alicdn.com/t/font_1542973_uewui5068tf.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_1542973_uewui5068tf.svg#iconfont') format('svg');
+}
+
+
+
+body , html{width: 100%;min-height: 100%;overflow-x: hidden;}
+body{background-size: 100% 100%;background-repeat: no-repeat;}
+.container{height: 100%;}
+
+
+.header{width: 100%;height:90px;background-repeat: no-repeat;background-size: 100% 100%; }
+.header-01{margin-left: 24px;margin-top: 28px;width: 105px;}
+.header-01 .layui-input{background-color: transparent;color: #3898e1;border: 1px solid #3898e1;height: 32px;}
+.header-01 .layui-form-select .layui-edge{border-top-color: #3898e1;}
+.header-01 .layui-form-select dl{background-color: #010836;color: white;}
+.header-01 .layui-form-select dl dd:hover {background-color: #010836;}
+.header-03{font-size: 18px;color: #9eb7de;line-height: 90px;margin-right: 22px;}
+/*0306*/
+.header-04{font-size: 14px;color: #3898e1;line-height: 55px;margin-right: 22px;}
+.header-05{background-color: transparent;
+    color: #9eb7de;
+    text-align: center;
+    line-height: 32px;
+    border: 1px solid #9eb7de;
+    height: 32px;
+    width: 105px;margin-top: 10px;margin-right: 10px;cursor: pointer;
+}
+
+
+.content{margin-top:2px;padding-left: 17px;padding-top: 35px;}
+
+

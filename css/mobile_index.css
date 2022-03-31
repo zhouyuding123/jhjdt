@@ -1,0 +1,48 @@
+@media (max-width: 767px) and (min-width: 300px){
+	.lyhidden {
+		display: none;
+	}
+	.quanpin {
+		display: none;
+	}
+	.map {
+		height: 2120px;
+	}
+	/* #mapse {
+		height: 1000px;
+	} */
+	.content-01 {
+		top: 910px;
+	}
+	.alltable {
+		top: 40px;
+	}
+	.search_fixed {
+		top: 88px;
+		width: 98%;
+		left: 0;
+		right: 0;
+		margin: 0 auto;
+	}
+	.tc_box {
+		width: 98%;
+	}
+	/* body {
+		height: 2280px !important;
+	} */
+	#mode1 {
+		position: absolute !important;
+	}
+	#mode2 {
+		position: absolute !important;
+	}
+	#mode3 {
+		position: absolute !important;
+	}
+	.content-01 {
+		width: 98%;
+		left: 0;
+		right: 0;
+		margin: 0 auto;
+	}
+}
